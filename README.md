@@ -1,4 +1,4 @@
-# Binance OHLC 1 Minute Dataset   
+# Binance OHLCV 1 Minute Dataset   
 
 This is a collection of **1 Minute** data for a number of cryptocurrency coins.    
 
