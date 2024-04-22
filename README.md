@@ -25,4 +25,6 @@ The time span varies for on each cryptocurrency, but the maximum time span is fr
 
 The dataset is composed of the following pairs:    
 
+* AAVE-USDT D20201015T030000UTC-D20240404T115959UTC    
+
 
