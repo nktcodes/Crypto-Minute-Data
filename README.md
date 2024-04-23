@@ -13,7 +13,7 @@ The time span varies for on each cryptocurrency, but the maximum time span is fr
    
 # Column Information         
 
-* Timestamp(integer): Time in seconds marking the start of the minute since Unix Epoch (1 January 1970 00:00:00 UTC).       
+* Timestamp(integer): Time in seconds marking the start of the minute since Unix Epoch (1 January 1970    00:00:00 UTC).       
 * Open: Opening value in USDT.         
 * High: Highest value in USDT.         
 * Low: Lowest value in USDT.        
@@ -26,5 +26,5 @@ The time span varies for on each cryptocurrency, but the maximum time span is fr
 The dataset is composed of the following pairs:    
 
 * AAVE D20201015T030000UTC-D20240404T115959UTC    
-
+* BTC D20170817T040000UTC-D20240404T115959UTC
 
